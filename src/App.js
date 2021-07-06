@@ -17,80 +17,70 @@ function App() {
         <Item
           title="Solar Panels"
           desc="Money-back guarantee"
-          descLink=""
           backgroundImg={SolarPanels}
           leftBtnTxt="ORDER NOW"
-          leftBtnLink=""
+          leftBtnLink="https://www.tesla.com/energy/design"
           rightBtnTxt="LEARN MORE"
-          rightBtnLink=""
+          rightBtnLink="https://www.tesla.com/solarpanels"
           twoButtons="true"
           first
         />
         <Item
           title="Model S"
           desc="$69,420"
-          descLink=""
           backgroundImg={ModelS}
           leftBtnTxt="CUSTOM ORDER"
-          leftBtnLink=""
+          leftBtnLink="https://www.tesla.com/models/design#overview"
           rightBtnTxt="LEARN MORE"
-          rightBtnLink=""
+          rightBtnLink="https://www.tesla.com/models"
           twoButtons="true"
         />
         <Item
           title="Model 3"
           desc="$69,420"
-          descLink=""
           backgroundImg={Model3}
           leftBtnTxt="CUSTOM ORDER"
-          leftBtnLink=""
+          leftBtnLink="https://www.tesla.com/model3/design#overview"
           rightBtnTxt="LEARN MORE"
-          rightBtnLink=""
+          rightBtnLink="https://www.tesla.com/model3"
           twoButtons="true"
         />
         <Item
           title="Model X"
           desc="$69,420"
-          descLink=""
           backgroundImg={ModelX}
           leftBtnTxt="CUSTOM ORDER"
-          leftBtnLink=""
+          leftBtnLink="https://www.tesla.com/modelx/design#overview"
           rightBtnTxt="LEARN MORE"
-          rightBtnLink=""
+          rightBtnLink="https://www.tesla.com/modelx"
           twoButtons="true"
         />
         <Item
           title="Model Y"
           desc="$69,420"
-          descLink=""
           backgroundImg={ModelY}
           leftBtnTxt="CUSTOM ORDER"
-          leftBtnLink=""
+          leftBtnLink="https://www.tesla.com/modely/design#overview"
           rightBtnTxt="LEARN MORE"
-          rightBtnLink=""
+          rightBtnLink="https://www.tesla.com/modely"
           twoButtons="true"
         />
         <Item
           title="Solar Roofs"
           desc="Money-back guarantee"
-          descLink=""
           backgroundImg={SolarRoof}
           leftBtnTxt="CUSTOM ORDER"
-          leftBtnLink=""
+          leftBtnLink="https://www.tesla.com/energy/design"
           rightBtnTxt="LEARN MORE"
-          rightBtnLink=""
+          rightBtnLink="https://www.tesla.com/solarroof"
           twoButtons="true"
         />
         <Item
           title="Assessories"
           desc="Money-back guarantee"
-          descLink=""
           backgroundImg={Assessories}
-          leftBtnTxt="CUSTOM ORDER"
-          leftBtnLink=""
-          rightBtnTxt="LEARN MORE"
-          rightBtnLink=""
-          twoButtons="true"
+          leftBtnTxt="SHOP NOW"
+          leftBtnLink="https://shop.tesla.com/?tesref=true"
         />
       </div>
     </div>
